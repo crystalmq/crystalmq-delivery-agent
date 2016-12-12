@@ -1,0 +1,13 @@
+name: crystalmq-delivery-agent
+version: 0.1.0
+
+authors:
+  - The Coco Coder <shout@cococoder.com>
+
+targets:
+  crystalmq-delivery-agent:
+    main: src/crystalmq-delivery-agent.cr
+
+crystal: 0.20.1
+
+license: MIT
